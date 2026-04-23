@@ -9,7 +9,7 @@ const projects = [
     github: "https://github.com/Yeshwanth110905/NLP-Project"
   },
   {
-    title: "Memory",
+    title: "Memory Game",
     description: "The game features a graphical user interface, card matching logic, timers, move tracking, and multiple difficulty levels, demonstrating strong understanding of Java OOP concepts and event-driven programming.",
     tech: ["Java Swing", "AWT"],
     github: "https://github.com/jaswanth-student/Memory-Game"
